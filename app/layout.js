@@ -19,7 +19,7 @@ const plexMono = IBM_Plex_Mono({
 });
 
 export const metadata = {
-  title: "Timothy Okoduwa",
+  title: "OBI KELVIN",
   description: ".............",
 };
 
